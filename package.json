@@ -1,0 +1,10 @@
+{
+  "name": "telegram-music-miniapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ytmusic-api": "^1.0.7",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}
